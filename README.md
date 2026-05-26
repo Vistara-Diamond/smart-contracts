@@ -18,7 +18,7 @@ Verified contracts on VDChain Mainnet (Chain ID: 882022)
 ## Bridged Assets (BSC to VDChain)
 | Asset | Address |
 |-------|---------|
-| USDT | 0x7e6A3fCe34f9489b680f35F2480646C5f301AD70 |
+| USDT | 0xA64bebb4Fc97383FE05492AF94A08fcfA3adbF2A |
 | WBNB | 0xF0E0E3fa91591b7d5F86dD22E1e21a5c56022A33 |
 | WETH | 0x2f231e39d2267b5a26d5c87d65A991e060071120 |
 
